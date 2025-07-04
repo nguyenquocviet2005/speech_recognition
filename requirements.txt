@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+accelerate
+jiwer
+pandas
+numpy
+soundfile
+librosa
+noisereduce
+gradio
+psutil
+scikit-learn 

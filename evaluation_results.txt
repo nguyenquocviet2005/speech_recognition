@@ -1,0 +1,50 @@
+Vietnamese Whisper Model Evaluation Results
+==================================================
+Model: ./whisper-vi-finetuned/checkpoint-7000
+Test samples: 2592
+Loss: 1.695883510818268
+WER: 0.18696029019935154
+CER: 0.10127474459635614
+
+Sample Predictions:
+------------------------------
+Sample 1:
+Reference:  muốn tráng dương bổ thận thì không nên tính toán sức khỏe là trên hết 
+Prediction: muốn tráng dương bổ thận thì không nên tính toán sức khỏe là trên hết 
+------------------------------
+Sample 2:
+Reference:  theo đại diện một ngân hàng thương mại cổ phần vì lãi suất đô la mỹ giảm kỷ lục nên lãi suất ngoại tệ này tại việt nam cũng phải giảm xuống
+Prediction: theo đại diện một ngân hàng thương mại cổ phần vì lãi suất đô la mỹ giảm kỷ lục nên lãi suất ngoại tệ này tại việt nam cũng phải giảm xuống
+------------------------------
+Sample 3:
+Reference:  ngân hàng chưa thu phí dịch vụ đã có
+Prediction: ngân hàng chưa thu phí dịch vụ đã có
+------------------------------
+Sample 4:
+Reference:  các tay súng bắn tỉa đóng trên các mái nhà
+Prediction: các tay súng bắn tỉa đóng trên các mái nhà
+------------------------------
+Sample 5:
+Reference:  mách lẻo tin đồn vô căn cứ
+Prediction: mách lẻo tin đồn vô căn cứ
+------------------------------
+Sample 6:
+Reference:  có xe buýt nào chạy thẳng đến văn phòng usaid không
+Prediction: có xe buýt nào chạy thẳng đến văn phòng usaid không
+------------------------------
+Sample 7:
+Reference:  anh có thể tẩy cái vết này mà không làm hỏng vải không
+Prediction: anh có thể tẩy cái vết này mà không làm hỏng vải không
+------------------------------
+Sample 8:
+Reference:  làm ơn cho cái này
+Prediction: làm ơn cho cái này
+------------------------------
+Sample 9:
+Reference:  cầu nằm chỗ nào
+Prediction: cầu nằm ở chỗ nào
+------------------------------
+Sample 10:
+Reference:  truyện khốc liệt kịch cũng gay gắt hận thù nhưng kết thúc trong nồng ấm
+Prediction: truyện khóc liệt kịch quảng gây gắt hận thù nhưng kết thúc trong nồng ấm
+------------------------------
